@@ -13,4 +13,6 @@ Open Reading Frame (ORF) Identification: Identify the longest ORF within a seque
 
 📚 What's Inside:
 
-Multiple sequences analysis using python.ipynb: The main notebook that includes scripts for sequence counting, parsing, repeat detection, and ORF identification.
+Multiple sequences analysis using python.ipynb: 
+
+The main notebook that includes scripts for sequence counting, parsing, repeat detection, and ORF identification.
