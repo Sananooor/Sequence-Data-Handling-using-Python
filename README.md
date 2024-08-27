@@ -7,8 +7,11 @@ This repository contains a comprehensive collection of Python scripts designed f
 🌟 Features:
 
 FASTA Sequence Counting: Quickly count the number of sequences in a given FASTA file.
+
 Sequence Parsing and Analysis: Parse sequences from FASTA files, analyze their lengths and identify the longest and shortest sequences.
+
 Repeat Detection: Detect and count repeats of a specified length within sequences.
+
 Open Reading Frame (ORF) Identification: Identify the longest ORF within a sequence, crucial for gene prediction.
 
 📚 What's Inside:
